@@ -4,17 +4,17 @@ Data was taken from <a href="https://www.ncbi.nlm.nih.gov/nuccore/?term=(ebola%5
 
 Sequences can be downloaded as follows:
 - Click "Send to"
-- Select complete record
-- Select file as the destination
-- Select FASTA as the format
-- Click create file
+- Select "complete record"
+- Select "file" as the destination
+- Select "FASTA" as the format
+- Click "Create File"
 
 Sample times can be downloaded as follows:
 - Click "Send to"
-- Select complete record
-- Select file as the destination
-- Select GFF3 as the format
-- Click create file
+- Select "complete record"
+- Select "file" as the destination
+- Select "GFF3" as the format
+- Click "Create File"
 
 Sequences and times were processed into a format useable by ViReport. Sequences which did not have an associated date were removed. 
 
