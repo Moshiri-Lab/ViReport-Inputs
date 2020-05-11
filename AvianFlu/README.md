@@ -1,7 +1,7 @@
-#Avian Flue
+# Avian Flu
 Sequences and sampling times for H5N1.
 
-The data was taken from https://www.fludb.org/brc/influenza_sequence_search_segment_display.spg?method=ShowCleanSearch&decorator=influenza by:
+The data was taken from https://www.fludb.org/brc/influenza_sequence_search_segment_display.spg?method=ShowCleanSearch&decorator=influenza with the following steps:
 - entering "H5N1" in "Subtype"
 - selecting "Complete Genome Only"
 - selecting "Search"
