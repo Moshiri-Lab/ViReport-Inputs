@@ -8,7 +8,7 @@ Sequences can be downloaded as follows:
 - Select FASTA as the format
 - Click create file
 
-Sample Times can be downloaded as follows:
+Sample times can be downloaded as follows:
 - Click "Send to"
 - Select complete record
 - Select file as the destination
