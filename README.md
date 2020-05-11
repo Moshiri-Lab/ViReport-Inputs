@@ -1,2 +1,2 @@
 # ViReport-Inputs
-Repository of input sequences and their corresponding dates formatted for use with ViReport
+Repository of input sequences and their corresponding dates formatted for use with ViReport. There is one directory for each studied virus.
